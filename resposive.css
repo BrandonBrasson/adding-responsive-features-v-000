@@ -10,7 +10,7 @@
   top82px;
   right:4%,auto;
   width: auto;
-  
+
   }
 #social a{
   display: inline-block;
@@ -21,7 +21,7 @@
 
 body {
   font-size: 85%;
-  
+
 }
 
 #logo h1 {
@@ -35,7 +35,7 @@ height: 35px;
  }
 }
 
-#social { 
+#social {
 top: 72px;
  }
 }
@@ -74,14 +74,14 @@ border:0;
   -moz-column-count: 1;
   -webkit-column-count: 1;
   column-count: 1;
-  }  
+  }
 }
 
 @media only screen and (max-width :700px){
 
 #navbar nav a {
   display: none;
- } 
+ }
 
 #navbar nav a }
 display: block;
